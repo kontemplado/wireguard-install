@@ -14,16 +14,15 @@ Supported distributions:
 
 I recommend these cheap cloud providers for your VPN server:
 
-- [Vultr](https://goo.gl/Xyd1Sc): Worldwide locations, IPv6 support, starting at $3.50/month
-- [PulseHeberg](https://goo.gl/76yqW5): France, unlimited bandwidth, starting at €3/month
-- [Digital Ocean](https://goo.gl/qXrNLK): Worldwide locations, IPv6 support, starting at $5/month
+- [Vultr](https://go.kontemplado.com/vultr): Worldwide locations, IPv6 support.
+- [Digital Ocean](https://go.kontemplado.com/digitalocean): Worldwide locations, IPv6 support.
 
 ## Usage
 
 First, get the script and make it executable :
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/kontemplado/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ```
 
