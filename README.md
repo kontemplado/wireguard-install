@@ -14,8 +14,8 @@ Supported distributions:
 
 I recommend these cheap cloud providers for your VPN server:
 
-- [Vultr](https://go.kontemplado.com/vultr): Worldwide locations, IPv6 support.
-- [Digital Ocean](https://go.kontemplado.com/digitalocean): Worldwide locations, IPv6 support.
+- [Fozzy](https://go.kontemplado.com/42gnn).
+- [HostZealot](https://go.kontemplado.com/58lm1).
 
 ## Usage
 
